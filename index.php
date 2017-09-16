@@ -3,8 +3,6 @@
         Programa de lealtad Prata Joyeria Mexicana
     </title>
     <head>
-         sigo haciendo pruebas
-        
     </head>
 
     <body>
